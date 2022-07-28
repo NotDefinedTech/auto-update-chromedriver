@@ -8,7 +8,7 @@ Watch a full walkthrough of this script: https://www.youtube.com/watch?v=d3XOkEv
 - Mac: This script was written for Mac, but it should be editable to suit other operating systems. Start by changing your paths to find Google Chrome version. Then change which zip file on the chromedriver download page to target. A written walkthrough is available here, which might help guide you through all of the compound steps: https://notdefined.tech/blog/how-to-automatically-update-chromedriver-for-selenium-when-chrome-updates/
 
 - unzip utility: If the unzip command isn't already installed on your system, then run:
-sudo apt-get install unzip
+```sudo apt-get install unzip```
 https://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal
 
 
